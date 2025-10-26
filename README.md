@@ -3,6 +3,7 @@
 <p align="center">
   <img alt="Crash Predictor App Banner" src="https://private-user-images.githubusercontent.com/170807472/333800376-4cb27231-43ac-4573-97dd-4086737539a9.png" width="720"/>
 </p>
+<h3 align="center"> <table align="center"> <tr> <th scope="col">Crash Prediction App</th> <th scope="col">26/ 10 / 2025</th> <th scope="col"><a href='https://t.me/crashpredictorx'>Download</a></th> </tr> </table> </h3>
 
 <p align="center">
   <a href="https://t.me/crashpredictorx">
